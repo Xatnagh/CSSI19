@@ -1,0 +1,13 @@
+h1{
+    background-color: aqua;
+    font-size: 24px;
+    color: blueviolet;
+}
+body{
+    background-color: blue
+}
+ul{
+    margin:10%;
+    border-bottom: 2px solid #FF0000;
+   
+}

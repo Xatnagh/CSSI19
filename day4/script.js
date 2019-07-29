@@ -1,0 +1,16 @@
+let num1= 1+2+3+4+5+6+7+8+9+10;
+let num2= 2*3*5*7;
+let num3=num2-num1;
+let num4 = num3**(2);
+let num5=num2%num1;
+let num6=num4+8;
+let num7=num3*3;
+let num8=num1+num2+num3+num4+num5+num6+num7;
+console.log(num1);
+console.log(num2);
+console.log(num3);
+console.log(num4);
+console.log(num5);
+console.log(num6);
+console.log(num7);
+console.log(num8);
